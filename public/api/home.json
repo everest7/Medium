@@ -1,0 +1,42 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "Breaking News",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "Social",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "The Path to Becoming a Software Architect",
+			"desc": "Have you ever wondered what career opportunities a developer has? What directions are open, beyond what horizons to grow. Where are developers beyond the age of 45? Is there a developer among your friends who is over 45? I know several developers beyond this age, and many of them are hardcore programmers who even saw punch cards back in the day.",
+			"imgUrl": "https://miro.medium.com/max/2400/1*JFdmWD8_X5gpCjNVaqILgQ.png"
+		}, {
+			"id": 2,
+			"title": "Why Accessibility Is the Future of Tech",
+			"desc": "Very few people think that those of us who are blind should be exiled from the web altogether. That’s as it should be. But all too often, the importance of accessibility — is framed in terms of charity alone. And that’s a shame because it makes accessibility seem grudging and boring, when the reality is that it’s the most exciting school of design on the planet.",
+			"imgUrl": "https://miro.medium.com/max/4454/1*eTQbEMYPh1Gv6T1H3Rr7rA.jpeg"
+		}, {
+			"id": 3,
+			"title": "Why Accessibility Is the Future of Tech",
+			"desc": "Very few people think that those of us who are blind should be exiled from the web altogether, or that people with hearing loss shouldn’t have iPhones. — the catch-all term for designing technology that people with disabilities can use — is framed in terms of charity alone. And that’s a shame because it when the reality is that it’s the most exciting school of design on the planet.",
+			"imgUrl": "https://miro.medium.com/max/4454/1*eTQbEMYPh1Gv6T1H3Rr7rA.jpeg"
+		}, {
+			"id": 4,
+			"title": "Why Accessibility Is the Future of Tech",
+			"desc": "Very few people think that those of us who are blind should be exiled from the web altogether, or that people with hearing loss shouldn’t have iPhones. That’s as it should be. But all too often, the importance of accessibility — the catch-all term for designing technology that people with disabilities can use — when the reality is that it’s the most exciting school of design on the planet.",
+			"imgUrl": "https://miro.medium.com/max/4454/1*eTQbEMYPh1Gv6T1H3Rr7rA.jpeg"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+		}, {
+			"id": 2,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}]
+	}
+}
